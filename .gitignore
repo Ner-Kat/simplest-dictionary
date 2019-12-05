@@ -1,9 +1,8 @@
-# Created by Netbeans
-/.gradle/
-/build/
+# Dirs
+.gradle
+build
+out
+.idea
 
-#Created by IDEA
-/.idea/
-/gradle/
-gradlew.bat
-gradlew
+#Filetypes
+*.class
